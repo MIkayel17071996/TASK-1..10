@@ -1,0 +1,11 @@
+.color-btn {
+  padding: 20px;
+  margin: 8px;
+  background-color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.color-btn:hover {
+  background-color: lightblue;
+}

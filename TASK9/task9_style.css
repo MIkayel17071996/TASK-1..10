@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+#email {
+  margin-bottom: 20px;
+}
+#email input[type="email"] {
+  width: 250px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+#submit input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+#submit input[type="submit"]:hover {
+  background-color: #45a049;
+}
+#result {
+  display: none;
+  color: red;
+}

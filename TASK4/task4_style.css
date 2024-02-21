@@ -1,0 +1,9 @@
+button {
+  padding: 10px 200px;
+  margin: 10px 0px;
+  text-align: center;
+  background-color: white;
+}
+button:hover {
+  background-color: lightgray;
+}
